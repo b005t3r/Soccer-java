@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: b005t3r
+Class-Path: .
+Main-Class: gui.SoccerFrame
